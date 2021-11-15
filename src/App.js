@@ -1,6 +1,6 @@
 import './App.scss';
-import Repo from './components/Repo';
 import Navbar from './components/Navbar';
+import Repo from './components/Repo';
 import {retry} from './utils/commonFunctions';
 
 import {lazy, useState, Suspense, useEffect} from 'react';

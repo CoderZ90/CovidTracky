@@ -131,7 +131,9 @@ function Volunteers() {
             className={classnames('description', 'fadeInUp')}
             style={{animationDelay: '0.1s'}}
           >
-            We thank the <strong>covid19india.org</strong> team for making this amazing project. These were the volunteers who worked for covid19india.org.
+            We thank the <strong>covid19india.org</strong> team for making this
+            amazing project. These were the volunteers who worked for
+            covid19india.org.
           </div>
         </div>
         <div className="members">

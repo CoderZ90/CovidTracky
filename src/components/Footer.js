@@ -1,5 +1,3 @@
-import {API_DOMAIN} from '../constants';
-
 import {memo} from 'react';
 import {Twitter, GitHub, Instagram, Database, Mail, Send} from 'react-feather';
 import {useTranslation} from 'react-i18next';

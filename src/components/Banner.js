@@ -11,14 +11,9 @@ function Banner(props) {
           <AlertIcon size={16} />
         </div>
         <div className="content">
-          {t(
-            'We are in this together and we will get through this together.'
-          )}{' '}
+          {t('We are in this together and we will get through this together.')}{' '}
         </div>
-        <a
-          href="./about"
-          rel="noreferrer"
-        >
+        <a href="./about" rel="noreferrer">
           {t('Know more about us')}
           <div className="arrow-right-icon">
             <ArrowRightIcon size={16} />
