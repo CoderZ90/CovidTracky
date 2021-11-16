@@ -1,6 +1,6 @@
 {
-  "short_name": "covidtracky.vercel.app",
-  "name": "covidtracky.vercel.app",
+  "short_name": "CovidTracky",
+  "name": "covid-tracky.vercel.app",
   "icons": [
     {
       "src": "favicon.ico",
